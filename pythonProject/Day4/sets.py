@@ -1,0 +1,12 @@
+s={1,2,23,34}
+print(s)
+print(type(s))
+s={3.4,"hi",(234,345)}
+print(s)
+#s.remove(2)
+print(s)
+a={1,2,3,4,5,6}
+b={22,34,5,6,4}
+print(a|b)
+a.union(b)
+b.union(a)
